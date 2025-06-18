@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    font-size: 2em;
+}
+.first-section {
+    background-image: url('../images/JPEG/abi-ghouta-timur-X9yiw8oLlbE-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 20px;
+    min-height: 1000px;
+    color: white;
+}
+.first-section h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color:darkslategray;
+    max-width: 80%;
+    margin: auto;
+}
+.first-section p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    color:darkslategray;
+    max-width: 80%;
+    margin: auto;
+}
+section article {
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
